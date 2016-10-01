@@ -141,18 +141,18 @@ Nonii. "Ükskõik kui keeruline või lihtne" on tore, aga mille eest reaalselt h
 - Üleüldised sohi tegemise reeglid kehtivad (nt. naabrilt maha kirjutamine).
 - Kõik ülesanded peavad olema lahendatud kasutades päris programmeerimise võtteid ja mitte lihtsalt näilisi lahendusi kirjutades.
 - Aega on 3 tundi.
-- Kui oled valmis lae lahendused üles samasse reposse kust nad said. Kui laed GitHubi või mujale avalikku kohta on tegu plagiaadi kaasa aitamises. Lahendusi võid jagada märtsis, kui kõik eksamid on ära olnud.
-- Kui koodi pushimine gitiga ei õnnestu siis saada failid kokku pakitult (zip/rar/tar) mulle meilile: krister.viirsaar@itcollege.ee. Kaasneb 5p penalt. Copy-paste koodi ma vastu ei võta.
+- Kui oled valmis lae lahendused üles samasse reposse, kust nad said. Kui laed GitHubi või mujale avalikku kohta on tegu plagiaadi kaasa aitamises. Lahendusi võid jagada märtsis, kui kõik eksamid on ära olnud.
+- Kui koodi pushimine gitiga ei õnnestu, siis saada failid kokku pakitult (zip/rar/tar) mulle meilile: krister.viirsaar@itcollege.ee. Kaasneb 5p penalt. Copy-paste koodi ma vastu ei võta.
 - Õppejõud ei kontrolli, kas su töö läks gitti üles. Seda saad ise teha.
 - Küsimusi võib küsida, aga tõenäoliselt oled ise midagi valesti teinud :)
 
 ### Soovitusi
 
 - Tule klassi palju varem ja kinnita, et Intellij on seadistatud.
-- Kui ülesanne on üle jõu siis lihtsusta enda jaoks, aga ära jäta programmi katki.
-- Ära copy-paste! Ülesanded on piisavalt lihtsad, et ajavõitu ei ole. Aga kui sa ei tea täpselt mis teed siis nüüd kaotad aega.
+- Kui ülesanne on üle jõu, siis lihtsusta enda jaoks, aga ära jäta programmi katki.
+- Ära copy-paste! Ülesanded on piisavalt lihtsad, et ajavõitu ei ole. Aga kui sa ei tea täpselt, mis teed, siis nüüd kaotad aega.
 - Ära kiirusta, mõtle läbi. Alati on lihtsam ja kergem lahendus olemas.
-- Kui googeldad, siis ära otsi lahendusi ülesandele vaid vastuseid oma küsimustele!
+- Kui googeldad, siis ära otsi lahendusi ülesandele, vaid vastuseid oma küsimustele!
 
 ## Väliseid ressursse
 
@@ -166,7 +166,7 @@ Paljud materjalid on hoopis Pythoni kesksed. See on väga hea. Python on hea alg
 *   [Udemy](https://www.udemy.com/java-tutorial/) väga hea kursus
 *   [Stanford](http://web.stanford.edu/class/cs106a/)i ülipopulaarne kursus
 *   [Java Programming - Step by Step](https://www.youtube.com/watch?v=3u1fu6f8Hto)
-*   [Why is programming hard?https://youtu.be/BRaBWIcAqlQ
+*   [Why is programming hard? https://youtu.be/BRaBWIcAqlQ
 *   [PluralSight](http://www.pluralsight.com/)
 *   [Coursera](https://www.coursera.org/course/pythonlearn)
 *   [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
@@ -206,8 +206,8 @@ On mõned põhitõed, mida enne päris maailmas tegutsemist tavaliselt ei õpi. 
 1.  Programmeerimine on katse-eksitus meetodi maailm, ehk seda teevad nii algajad kui ka profid. Seega proovi ja katseta. Tee vigu, arvuti sinust ei tüdine. Kui lõpuks midagi tööle saad on võit tööd väärt.
 2.  Ära karda programmi uuesti kirjutamist. Iga ümberkirjutamisega tuleb sul parem arusaam, kuidas asi tegelikult peaks olema. Alguses proovi lihtsalt midagi tööle saada.
 3.  Kolmandal ümberkirjutamisel on sul juba päris hea programm.
-4.  Google on progeja parim sõber. Internet on suur teadmiste pank ja pole kedagi, kes kõike peast teaks. Kuid tark ei kopeeri pimesi koodi vaid õpib seda mõistma ja kasutab vaid vajalike osi.
-5.  Iga programm võtab kordades rohkem aega kui oskasid arvata. [Optimism on elukutsega kaasnev oht](http://blog.codinghorror.com/defeating-optimism/).
+4.  Google on progeja parim sõber. Internet on suur teadmiste pank ja pole kedagi, kes kõike peast teaks. Kuid tark ei kopeeri pimesi koodi, vaid õpib seda mõistma ja kasutab vaid vajalike osi.
+5.  Iga programm võtab kordades rohkem aega, kui oskasid arvata. [Optimism on elukutsega kaasnev oht](http://blog.codinghorror.com/defeating-optimism/).
 6.  Efektiivse programmi loomine algab korralikust eeltööst. Pea ees sisse hüpates saad katsetada ja mängida, aga mitte midagi tõsist teha. Läbi on vaja mõelda nii otstarve, funktsionaalsus, kujundus kui ka programmi enda arhitektuur.
 7.  Juunior / arendaja / Senior on kolm tiitlit, mida võid omistada. Juunior on muidugi õpilane. "Arendaja" oled siis, kui saad iseseisvalt hakkama ja seneioril on kuskil 7 aastat kogemust ja oskab ka kõige keerulisemaid probleeme lahendada. Kuskil seda kirjas muidugi ei ole ja antud kirjeldus on vaid mulje.
 8.  Arvuti ei tee vigu. Inimesed teevad vigu. Inimene oled sina, olen mina ja on kõik need, kes on Java ja kõik muu tarkvara kirjutanud. Aga enne kui teisi süüdistad, tee 100% kindlaks, et viga pole sinu enda koodis.
@@ -245,7 +245,7 @@ Programmi käivitamiseks on lihtne otsetee `ctrl + shift + f10`. Kui oled juba �
 
 ##### Debug
 
-Kui soovid näha kuidas täpselt su programm jookseb - rida rea haaval - siis Debug funktsioon on selle jaoks. Hoiatan, et erinevalt programmi tavapärane käivitamine võib see väga kaua aega võtta. Uuri lähemalt [Debug videos](/Videod).
+Kui soovid näha, kuidas täpselt su programm jookseb - rida rea haaval - siis Debug funktsioon on selle jaoks. Hoiatan, et erinevalt programmi tavapärane käivitamine võib see väga kaua aega võtta. Uuri lähemalt [Debug videos](/Videod).
 
 ##### Failide vaade
 
@@ -259,15 +259,15 @@ Jumala kiirklahv on ctrl + shift + a, see on kõikide käskluste otsing.
 
 `ctrl + shift + a`
 
-Otsing: kõik Intellij käsklused
+Otsing: kõik Intellij käsklused.
 
 `shift + f10`
 
-Käivita programm (olemasolevate seadetega)
+Käivita programm (olemasolevate seadetega).
 
 `ctrl + shift + f10`
 
-Käivita programm (loo uued seaded)
+Käivita programm (loo uued seaded).
 
 `alt + enter`
 
@@ -275,19 +275,19 @@ Paranda kursori all olev viga.
 
 `ctrl + shift + üles/alla`
 
-Viib kas rea või koodi jupi üles/alla
+Viib kas rea või koodi jupi üles/alla.
 
 `alt + j`
 
-Selekteeri järgmine identne koodijupp
+Selekteeri järgmine identne koodijupp.
 
 `shift + alt + click`
 
-Lisa veel üks kursor
+Lisa veel üks kursor.
 
 `shift + alt + insert`
 
-Muuda selekteerimine ploki kujuliseks
+Muuda selekteerimine ploki kujuliseks.
 
 `ctrl + click`
 
@@ -299,7 +299,7 @@ Autocomplete, ehk soovita midagi mis siia võiks sobida.
 
 `ctrl + w`
 
-Laienda selektsiooni
+Laienda selektsiooni.
 
 `F2`
 
@@ -315,7 +315,7 @@ Lõpeta lause ja lisa semikoolon.
 
 ##### Kiirkäsud
 
-kirjuta käsk ja vajuta enter. Näiteks `sout + enter` kirjutab `System.out.println()`.
+Kirjuta käsk ja vajuta enter. Näiteks `sout + enter` kirjutab `System.out.println()`.
 
 **sout**
 
@@ -745,7 +745,7 @@ Kui andmete kogus suureneb oleks mõistlik saja muutuja asemel kasutada ühte ni
 
     int[] võistleja1 = {76, 56, 75, 45, 56, 76, 65, 67, 45, 54};
 
-Kujuta ette, kui võistlejaid on samuti kümme ja igaühel on 10 tulemust. Siis jällegi ei ole meil tarvis kümmet muutujat vaid ühte head HashMapi, mille sees on omakorda ArrayList:
+Kujuta ette, kui võistlejaid on samuti kümme ja igaühel on 10 tulemust. Siis jällegi ei ole meil tarvis kümmet muutujat, vaid ühte head HashMapi, mille sees on omakorda ArrayList:
 
     HashMap tulemused = new HashMap();                  // Loo HashMap
     ArrayList voistleja = new ArrayList();              // Loo ArrayList
@@ -921,7 +921,7 @@ Prindi
 
     System.out.println(a)
 
-kas on tühi?
+Kas on tühi?
 
     a.isEmpty()
 
@@ -1031,7 +1031,7 @@ Prindi välja
 
     System.out.println(a)
 
-kas on tühi?
+Kas on tühi?
 
     a.isEmpty()
 
@@ -1043,7 +1043,7 @@ Näidis kood koos seletustega on siin: [Andmebaasi näidisprogramm](https://gith
 
 ### Primitiivid ja Objektid
 
-Kui võtame suvalise hunniku Java andmetüüpe [int, double, String, ArrayList], siis näeme, et osad on suure algustähtedega, osad on väiksega. See ei ole programmeerija suva järgi vaid tuleneb selle tüübi võimalustest. Näiteks int tüüpi muutuja on lihtsalt täisarv ja temaga ei saagi peale arvutamise midagi teha. String on aga sõne ja temaga saab igast pulli teha:
+Kui võtame suvalise hunniku Java andmetüüpe [int, double, String, ArrayList], siis näeme, et osad on suure algustähtedega, osad on väiksega. See ei ole programmeerija suva järgi, vaid tuleneb selle tüübi võimalustest. Näiteks int tüüpi muutuja on lihtsalt täisarv ja temaga ei saagi peale arvutamise midagi teha. String on aga sõne ja temaga saab igast pulli teha:
 
     String nimi = "Krister";          // Teen uue muutuja
     nimi = nimi.replace('r', 'l');    // muudan kõik 'r' tähed 'l' tähtedeks
@@ -1153,7 +1153,7 @@ Lahendus koodis
 
 ### Tsüklid
 
-Kui programmil on vaja nüüd mitte lihtsalt hargneda (otsus langetada) vaid ühte koodijuppi käiata kümneid või isegi tuhandeid kordi, siis on tsüklid selle jaoks. While tsükkel on selles mõttes universaalne, et sellega saab kõike teha, mida teistegagi. Teiste tsüklite mõte on lihtsustada kindlaid igapäevaseid toiminguid. Näiteks kui sul on vaja just numbritega mängida, siis saad for tsükliga kiiremini asja tehtud. Kui soovid massiivi väärtustega tegeleda, on 'for each' ideaalne.
+Kui programmil on vaja nüüd mitte lihtsalt hargneda (otsus langetada), vaid ühte koodijuppi käiata kümneid või isegi tuhandeid kordi, siis on tsüklid selle jaoks. While tsükkel on selles mõttes universaalne, et sellega saab kõike teha, mida teistegagi. Teiste tsüklite mõte on lihtsustada kindlaid igapäevaseid toiminguid. Näiteks kui sul on vaja just numbritega mängida, siis saad for tsükliga kiiremini asja tehtud. Kui soovid massiivi väärtustega tegeleda, on 'for each' ideaalne.
 
 #### while
 
@@ -1718,7 +1718,7 @@ Käivita toiming iga sekund, kuid alusta alles viiendal sekundil
 
 #### .scheduleAtFixedRate()
 
-Vt. [.schedule()](/#schedule). Ainuke vahe on see, et fixed rate käivitub ajaliselt väga täpselt. Näiteks kui meil on vaja, et toimingud käivituksid iga 5 sekundi tagant, aga arvuti on jäänud aeglaseks, siis .scheduleAtFixedRate() käivitab koodi kellaajalise täpsusega, .schedule() aga ei arvesta mitte aega vaid millal viimane tsükkel lõppes.
+Vt. [.schedule()](/#schedule). Ainuke vahe on see, et fixed rate käivitub ajaliselt väga täpselt. Näiteks kui meil on vaja, et toimingud käivituksid iga 5 sekundi tagant, aga arvuti on jäänud aeglaseks, siis .scheduleAtFixedRate() käivitab koodi kellaajalise täpsusega, .schedule() aga ei arvesta mitte aega, vaid millal viimane tsükkel lõppes.
 
 ### Arrays
 
@@ -1761,7 +1761,7 @@ JavaFX on paindlik kasutajaliidese ja graafika kuvaja, samas on ta _mõistlikult
 
 Kindlasti tundub see teema esialgu keeruline, aga kui töötad ühe korra asja läbi leiad, et tegelikult on kõik parajalt lihtne ja loogiline.
 
-[Inglise keelne video õpetus.](https://www.youtube.com/watch?v=FLkOX4Eez6o)
+[Ingliskeelne video õpetus.](https://www.youtube.com/watch?v=FLkOX4Eez6o)
 
 Lihtne näide ühest JavaFX programmist on järgmine.
 
@@ -1832,7 +1832,7 @@ Loo uus
 
     Stage stage = new Stage();
 
-Määra mis Scene on aktiivne.
+Määra, mis Scene on aktiivne.
 
     stage.setScene(scene);
 
@@ -2201,7 +2201,7 @@ Määra nupu tekst
 
     btn.setText("Vajuta siia!");
 
-Määra mis juhtub kui nuppu vajutatakse
+Määra, mis juhtub kui nuppu vajutatakse
 
     btn.setOnAction((event) -> {
         public void handle(ActionEvent e) {
@@ -2303,7 +2303,7 @@ Loo ChoiceBox kolme variandiga
     );
     pane.getChildren().add(cb);
 
-Küsi milline variant on valitud
+Küsi, milline variant on valitud
 
     cb.getValue();
 
@@ -2567,7 +2567,7 @@ Tõrge näeb välja selline:
 > 'javac' is not recognized as an internal or external command,
 > operable program or batch file.
 
-Windows süsteemidel otsitakse käsurealt programme käivitades programmi konkreetsest kaustast kus sa hetkel viibid või kaustadest, mis on lisatud *PATH* muutujasse. *javac* ei lisandu automaatselt kahjuks sinu *PATH* reale.
+Windows süsteemidel otsitakse käsurealt programme käivitades programmi konkreetsest kaustast, kus sa hetkel viibid või kaustadest, mis on lisatud *PATH* muutujasse. *javac* ei lisandu automaatselt kahjuks sinu *PATH* reale.
 Seda saab parandada:
 1. Otsi ülesse kaust, kuhu installisid Java SDK. Leia üles */bin* kaust. Näiteks *C:\Program Files\Java\jdk1.8.0_101\bin*
 2. Win7/8/10 korral Start nupp - parem hiire klikk *My Computer* (Või *This PC*)
@@ -2580,11 +2580,11 @@ Seda saab parandada:
 
 ### Undo
 
-Esimene asi mis tee on vajuta `ctrl + z`, et oma käike tagasi võtta. Pole mõtet juurde kirjutada koodi kui olemasolev ei tööta. Kui lähed undoga liiale, saad `ctrl + shift + z` vajutusega ajaloos edasi minna.
+Esimene asi, mis tee, on vajuta `ctrl + z`, et oma käike tagasi võtta. Pole mõtet juurde kirjutada koodi, kui olemasolev ei tööta. Kui lähed undoga liiale, saad `ctrl + shift + z` vajutusega ajaloos edasi minna.
 
 ### Kontrolli süntaksit
 
-Algajatel juhtub tihti, et Java süntaksit ei järgita. [Süntaks](http://et.wikipedia.org/wiki/S%C3%BCntaks) on ka programmeerimises grammatika osa. Need on need reeglid, ilma milleta arvuti lihtsalt ei saa aru millest sa räägid. Kontrolli üle järgnevad korduma kippuvad vead:
+Algajatel juhtub tihti, et Java süntaksit ei järgita. [Süntaks](http://et.wikipedia.org/wiki/S%C3%BCntaks) on ka programmeerimises grammatika osa. Need on need reeglid, ilma milleta arvuti lihtsalt ei saa aru, millest sa räägid. Kontrolli üle järgnevad korduma kippuvad vead:
 
 Kui sulud on korras vajuta `ctrl + alt + l`, et treppimine automaatselt korda seada.
 
@@ -2688,7 +2688,7 @@ Kui programm käivitub, aga tulemus ei ole see, mida ootasid.
 
 ### Prindi kõike
 
-Eesmärgiks on saada teada täpselt **mis tulemuse iga koodirida annab**.
+Eesmärgiks on saada teada täpselt, **mis tulemuse iga koodirida annab**.
 
 Kui enne oli kood:
 
@@ -2707,11 +2707,11 @@ Siis nüüd on kõik võimalikud pesad välja prinditud:
     }
     System.out.println("a = " + a);
 
-Antud näide on veidi ekstreemne (esimene print on üleliigne) aga vahel tuleb vea leidmiseks olla ekstreemne.
+Antud näide on veidi ekstreemne (esimene print on üleliigne), aga vahel tuleb vea leidmiseks olla ekstreemne.
 
 ### Debug
 
-Debug on lahe funktsioon, kus näed rida rea haaval kuidas programm jookseb. Vaata täpsemalt [Debuggimine](/#Debug).
+Debug on lahe funktsioon, kus näed rida rea haaval, kuidas programm jookseb. Vaata täpsemalt [Debuggimine](/#Debug).
 
 ### Googelda
 
